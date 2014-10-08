@@ -1,7 +1,7 @@
 DEPENDENCIES
   joad-ci
     git: git://github.com/ita2014-docker/joad-ci-cookbook.git
-    revision: cbffb7ac7b25c8d46cff4d68ff271c33d3adf04a
+    revision: ebec377a032c332b16db0442202190b1498c19f1
 
 GRAPH
   apt (2.6.0)
